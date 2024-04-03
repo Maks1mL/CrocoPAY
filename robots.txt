@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /admin
+Allow: /
+
+Host: https://crocopay.app
+Sitemap: https://crocopay.app/sitemap.xml

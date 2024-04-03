@@ -1,0 +1,14 @@
+{
+    "name": "ExpressRestApi",
+    "alias": "expressrestapi",
+    "description": "The Express Merchant Payment REST API is a powerful tool designed to facilitate secure and seamless payment transactions within the Express ecosystem. This API empowers merchants to integrate payment functionality directly into their applications or websites, enabling customers to make purchases, manage transactions, and ensure a smooth checkout experience.",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ExpressRestApi\\Providers\\ExpressRestApiServiceProvider"
+    ],
+    "files": [
+        "Helpers/helper.php"
+    ],
+    "version": "1.0.0"
+}
